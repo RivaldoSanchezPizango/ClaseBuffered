@@ -1,0 +1,4 @@
+Rivaldo,Sanchez,324,55600.24
+Oiler,Lozano,545,10000.243
+Lidia,Pizango,456,24000.224
+Wilfredo,Sanchez,545,143500.234
